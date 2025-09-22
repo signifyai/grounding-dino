@@ -1,0 +1,7 @@
+**weights
+**build
+**__pycache__
+**.ipynb_checkpoints/
+**.so
+**.pth
+gitconfig.sh 
