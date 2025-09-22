@@ -1,28 +1,1286 @@
-label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
-fruit,194,239,331,349,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-fruit,736,262,325,349,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-fruit,1149,267,323,341,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-fruit,1513,169,390,367,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-fruit,212,724,400,333,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-fruit,620,789,362,328,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-fruit,217,1096,374,307,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-fruit,1043,1044,274,354,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-fruit,1069,696,338,336,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-fruit,1433,587,380,312,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-fruit,1439,1029,374,346,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-peduncle,312,461,119,101,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-peduncle,819,164,127,103,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-peduncle,132,864,93,134,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-peduncle,444,1179,137,137,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-peduncle,1299,218,101,70,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-peduncle,749,794,204,155,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-peduncle,1813,729,80,75,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-peduncle,1785,1189,116,85,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-peduncle,1356,807,106,106,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-peduncle,1312,1251,52,57,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-peduncle,1841,344,72,152,CARABAGGIO_220329_203615_598979.jpg,2048,1536
-fruit,380,220,307,331,CARABAGGIO_220329_203805_655843.jpg,2048,1536
-fruit,542,827,359,336,CARABAGGIO_220329_203805_655843.jpg,2048,1536
-fruit,1144,926,356,354,CARABAGGIO_220329_203805_655843.jpg,2048,1536
-peduncle,480,443,114,93,CARABAGGIO_220329_203805_655843.jpg,2048,1536
-peduncle,1446,1037,83,83,CARABAGGIO_220329_203805_655843.jpg,2048,1536
+label_name,bbox_x1,bbox_y1,bbox_x2,bbox_y2,image_name,image_width,image_height
+logo,112,21,242,69,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+statement of identity,97,111,253,224,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+claims,53,247,285,299,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Net quantity,179,339,336,373,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+supplement-facts-table,364,13,675,142,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Other ingredients,363,144,676,167,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+claims,364,172,460,192,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+claims,360,252,665,290,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+FDA disclaimer,364,319,677,364,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Directions for use,687,13,1000,46,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Caution-warning statements,686,47,1002,146,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Manufacturer-packer-distributor name address,685,150,837,187,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+vignettes,917,138,986,295,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+vignettes,691,228,907,269,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Additional claims,689,269,907,350,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Additional claims,912,340,1000,369,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+sku,689,352,832,364,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Barcode-UPC,1006,9,1081,230,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Principal Display Panel -PDP-,1,1,347,379,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Information Panel,348,2,681,379,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Other Panels,682,2,1081,379,Vitamin-E-1-000-IU-_pdf_page_1_png.rf.bdce52182673c72d2fe349142088f490.jpg,1080,378
+Additional claims,1,1,1597,131,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+logo,39,187,393,231,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+claims,298,239,416,333,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+statement of identity,42,279,317,394,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+statement of identity,38,521,135,541,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+claims,39,399,247,481,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Additional claims,42,232,276,279,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Net quantity,36,498,134,519,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+vignettes,139,491,187,539,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+vignettes,271,332,461,504,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Additional claims,214,499,321,541,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Directions for use,474,173,651,232,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+supplement-facts-table,475,233,653,407,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Daily Value Footnotes,479,379,648,403,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Other ingredients,472,409,650,487,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Manufacturer-packer-distributor name address,471,488,650,544,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+allergens,655,172,817,220,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Caution-warning statements,656,221,816,536,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+sku,1186,132,1247,566,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+claims,889,212,1087,270,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+claims,896,288,1163,457,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+FDA disclaimer,897,467,1161,520,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Barcode-UPC,1326,358,1405,548,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Certifications or seals,1334,280,1398,356,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+claims,1425,227,1578,529,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Principal Display Panel -PDP-,3,131,464,566,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Information Panel,463,129,826,567,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Other Panels,826,131,1184,567,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+Other Panels,1250,133,1597,567,Melatonin-1-mg-Raspberry-_pdf_page_1_png.rf.d6a7fd811407c10448477684ba6e3496.jpg,1596,566
+claims,263,1,430,59,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+logo,273,68,464,125,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+product name,273,129,494,239,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+claims,273,239,468,304,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Net quantity,273,309,382,329,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+statement of identity,274,329,419,350,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+claims,491,319,590,353,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Certifications or seals,493,46,566,115,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+claims,14,10,255,89,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Directions for use,14,90,254,115,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Caution-warning statements,15,119,254,178,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Additional claims,13,183,253,229,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+FDA disclaimer,14,232,253,276,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Barcode-UPC,18,278,244,333,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+sku,19,333,103,348,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+supplement-facts-table,611,9,844,248,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Daily Value Footnotes,616,231,734,245,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Other ingredients,612,247,847,261,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Additional claims,612,263,845,284,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Manufacturer-packer-distributor name address,612,284,845,316,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Additional claims,613,317,838,347,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Information Panel,597,1,859,355,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Principal Display Panel -PDP-,263,1,596,355,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+Other Panels,1,1,262,355,Enzyte-MRC-_pdf_page_1_png.rf.f8cea77213699fb356f445adb6a58aa1.jpg,858,354
+logo,376,50,551,96,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+logo,113,18,231,48,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+logo,28,176,176,224,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+logo,368,192,555,242,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+statement of identity,376,96,552,148,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+statement of identity,368,242,517,293,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+statement of identity,111,128,167,139,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+statement of identity,112,48,190,73,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+statement of identity,376,488,476,503,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Net quantity,378,506,426,522,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Net quantity,113,142,157,153,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Certifications or seals,200,128,224,154,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Certifications or seals,510,468,554,521,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Certifications or seals,212,421,349,452,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+claims,112,73,175,88,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+claims,378,292,528,309,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+claims,22,228,183,381,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+claims,215,264,347,376,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+allergens,19,408,140,454,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+allergens,376,461,520,486,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Manufacturer-packer-distributor name address,28,460,168,523,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Manufacturer-packer-distributor name address,567,319,698,352,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Manufacturer-packer-distributor name address,232,14,254,148,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Other ingredients,252,16,266,150,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Other ingredients,568,301,711,318,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+supplement-facts-table,567,212,714,301,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+supplement-facts-table,267,13,349,153,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Directions for use,567,352,713,447,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Directions for use,17,15,104,77,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Caution-warning statements,18,78,104,118,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Caution-warning statements,17,118,104,152,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Caution-warning statements,212,462,348,481,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Caution-warning statements,563,453,713,523,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+vignettes,654,169,715,211,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+vignettes,12,380,55,406,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+vignettes,131,386,183,460,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+vignettes,297,360,354,403,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+vignettes,373,320,551,460,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+vignettes,212,227,254,264,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+vignettes,138,73,211,132,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+sku,603,62,641,77,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Barcode-UPC,571,101,691,158,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Principal Display Panel -PDP-,360,164,561,523,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Information Panel,562,163,721,523,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Other Panels,202,164,359,523,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Other Panels,1,166,201,523,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Other Panels,562,2,721,166,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Other Panels,362,1,563,165,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Other Panels,1,2,107,163,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Principal Display Panel -PDP-,104,1,231,164,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Information Panel,229,1,360,162,7_pdf_page_1_png.rf.3a25411fb1b6d09bb7ae70057cb06358.jpg,720,522
+Certifications or seals,8,57,33,135,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Caution-warning statements,8,145,32,318,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+logo,109,40,289,96,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Additional claims,291,48,357,115,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+statement of identity,62,99,333,184,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+statement of identity,166,192,234,211,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Caution-warning statements,128,349,220,364,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Net quantity,48,271,107,319,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+claims,124,274,339,347,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Certifications or seals,262,194,342,276,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+vignettes,39,194,260,271,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+vignettes,122,15,294,36,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Directions for use,364,9,612,44,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Directions for use,364,46,642,290,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Daily Value Footnotes,368,263,580,287,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Other ingredients,367,292,640,366,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+claims,646,9,943,29,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+allergens,648,31,903,46,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Caution-warning statements,648,49,945,64,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+FDA disclaimer,648,66,943,119,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Manufacturer-packer-distributor name address,649,118,944,186,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+sku,975,14,1030,25,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Manufacturer-packer-distributor name address,953,28,993,183,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+country of origin,993,48,1027,183,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+claims,649,205,925,360,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Barcode-UPC,950,187,1033,361,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Principal Display Panel -PDP-,39,1,361,373,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Other Panels,1,1,40,373,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Information Panel,361,1,644,373,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Other Panels,644,1,1039,373,Probiotic-Gummies-Berry-Blast_pdf_page_1_png.rf.ee3c1b878dd5a11051e16853676ec71d.jpg,1038,372
+Directions for use,1654,144,2679,313,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+claims,1658,348,2673,994,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+Caution-warning statements,1658,1038,2676,1247,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+Barcode-UPC,1671,1351,2234,1580,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+Manufacturer-packer-distributor name address,1914,1298,2236,1342,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+Manufacturer-packer-distributor name address,2261,1338,2674,1524,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+Certifications or seals,2258,1528,2688,1584,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+Certifications or seals,1661,1274,1848,1345,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+Other ingredients,2771,1411,3922,1511,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+allergens,2764,1514,3919,1602,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+FDA disclaimer,3932,110,4074,1404,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+supplement-facts-table,2764,108,3922,1395,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+statement of identity,1034,1511,1430,1572,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+statement of identity,301,1001,1233,1189,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+logo,511,1344,1034,1703,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+logo,644,198,911,482,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+claims,278,514,1304,757,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+logo,271,754,1278,1000,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+Principal Display Panel -PDP-,1,1,1628,1703,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+Information Panel,2734,4,4195,1697,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+Other Panels,1634,1,2729,1703,Minelyte-_pdf_page_1_png.rf.91229668bf322c08c6e1501a953686bd.jpg,4196,1702
+sku,618,56,649,67,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Directions for use,362,1,441,29,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Directions for use,128,80,172,101,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Directions for use,364,158,441,184,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Certifications or seals,510,10,559,56,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Certifications or seals,511,462,559,512,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+vignettes,662,187,715,221,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+vignettes,216,220,251,259,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+vignettes,292,344,352,380,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+vignettes,379,307,555,452,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+vignettes,26,374,52,403,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+vignettes,137,383,185,453,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+logo,378,42,551,86,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+statement of identity,378,90,549,134,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+logo,374,185,555,232,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Barcode-UPC,574,90,691,143,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+statement of identity,378,238,538,279,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+claims,379,281,499,305,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+claims,378,454,521,477,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+statement of identity,378,482,480,498,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Net quantity,379,500,442,518,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+supplement-facts-table,568,223,716,323,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Other ingredients,569,324,694,344,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Manufacturer-packer-distributor name address,567,345,699,373,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Caution-warning statements,567,374,632,383,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Directions for use,568,386,714,439,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Caution-warning statements,568,449,716,514,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Manufacturer-packer-distributor name address,32,452,180,517,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Certifications or seals,226,409,335,445,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+claims,217,263,348,336,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+logo,18,175,178,214,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+claims,25,220,181,376,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+FDA disclaimer,208,475,356,507,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+sku,109,94,118,128,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Certifications or seals,133,101,166,128,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+logo,178,85,279,109,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+statement of identity,178,109,277,125,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Net quantity,179,128,225,139,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Other ingredients,282,101,340,130,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Directions for use,281,89,340,100,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Principal Display Panel -PDP-,362,156,564,519,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Information Panel,565,158,721,519,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Other Panels,566,1,721,156,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Other Panels,361,1,565,157,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Other Panels,1,1,363,159,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Other Panels,1,159,205,519,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+Other Panels,203,158,363,519,Organic-Vitamin-D-Drops-_pdf_page_1_png.rf.b021b864e8ffed2072ac3ff2881d14f0.jpg,720,518
+logo,871,9,1547,88,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+statement of identity,821,149,1591,615,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+statement of identity,851,925,1297,989,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+claims,957,633,1526,867,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+vignettes,889,637,950,770,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Directions for use,43,109,653,218,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Caution-warning statements,41,223,652,459,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+FDA disclaimer,47,469,640,573,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Manufacturer-packer-distributor name address,33,687,453,897,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Certifications or seals,477,693,687,876,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Net quantity,1321,923,1545,984,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+supplement-facts-table,1769,125,2368,500,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Other ingredients,1777,505,2365,604,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Additional claims,1779,625,2369,743,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Barcode-UPC,1771,779,2355,974,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Principal Display Panel -PDP-,725,1,1679,1001,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Information Panel,1683,1,2401,1001,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Other ingredients,1,1,724,1001,Calcium-600-Plus-Vitamin-D-_pdf_page_1_png.rf.6c5feffe1aab600080eedded35b38d31.jpg,2400,1000
+Barcode-UPC,762,665,992,775,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+logo,15,70,98,599,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+claims,123,13,327,74,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+sku,468,29,591,54,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Directions for use,742,17,1016,106,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+supplement-facts-table,742,106,1017,296,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Daily Value Footnotes,748,271,935,292,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Other ingredients,742,300,1015,343,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Caution-warning statements,727,348,1032,466,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Manufacturer-packer-distributor name address,755,472,1024,610,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+country of origin,728,611,834,636,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+sku,957,614,1032,632,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+sku,1169,32,1300,59,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+statement of identity,124,521,294,578,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Caution-warning statements,169,128,334,160,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Additional claims,123,90,333,129,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+claims,126,187,335,403,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+claims,125,412,273,494,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+product name,366,95,687,130,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+statement of identity,473,129,625,155,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+claims,390,167,657,299,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+claims,371,337,683,499,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+FDA disclaimer,361,512,692,585,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+product name,1071,95,1397,131,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+statement of identity,1174,133,1321,154,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Additional claims,1076,185,1384,483,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+logo,1070,512,1206,588,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Additional claims,1216,511,1391,583,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Principal Display Panel -PDP-,1,2,354,649,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Other Panels,352,1,702,648,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Information Panel,705,1,1055,650,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+Other Panels,1057,1,1405,651,Heliocare-Advanced-with-Nicotinamide-B3-_pdf_page_1_png.rf.f280feafcd1a1bc238a284b2bdb480f0.jpg,1404,784
+supplement-facts-table,33,73,757,539,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+Daily Value Footnotes,31,537,752,587,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+claims,29,607,753,746,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+FDA disclaimer,29,763,669,915,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+claims,837,601,1287,869,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+claims,1469,615,1929,855,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+Net quantity,1197,925,1493,977,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+vignettes,1325,603,1459,861,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+statement of identity,829,85,1877,431,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+Net quantity,1209,1,1499,82,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+vignettes,829,435,1515,600,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+Directions for use,1971,65,2508,237,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+Caution-warning statements,1967,239,2510,767,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+Manufacturer-packer-distributor name address,1933,769,2540,977,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+Information Panel,1,1,791,1025,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+Principal Display Panel -PDP-,793,1,1932,1023,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+Other Panels,1933,1,2561,1025,Piracetam-Nootropil-800-mg-_pdf_page_1_png.rf.26fb5b52b58f72e12e7dc5802ed5f8c0.jpg,2560,1024
+statement of identity,304,282,589,375,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Net quantity,374,639,499,667,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+logo,309,23,571,193,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+claims,371,197,512,260,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+claims,323,393,553,539,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Additional claims,317,578,559,630,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+claims,31,56,227,167,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Additional claims,35,173,228,261,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+claims,8,266,254,379,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Directions for use,36,392,227,486,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Certifications or seals,32,486,228,541,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Additional claims,32,540,227,592,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Additional claims,31,590,230,651,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Other ingredients,657,53,844,90,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+supplement-facts-table,657,92,844,408,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Daily Value Footnotes,662,357,832,402,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Manufacturer-packer-distributor name address,668,412,776,513,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Certifications or seals,785,429,836,528,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Additional claims,666,517,777,536,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Barcode-UPC,673,543,826,648,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Principal Display Panel -PDP-,280,1,612,701,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Other Panels,1,1,279,701,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+Information Panel,615,1,878,701,Flaxoil_pdf_page_1_png.rf.aa743d1528e8031e62f5a8e3650acc48.jpg,878,700
+logo,411,12,629,58,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+product name,447,85,589,187,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+claims,400,216,628,260,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+claims,388,263,637,324,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Additional claims,353,336,424,363,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Additional claims,605,334,696,363,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Net quantity,437,328,590,348,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+statement of identity,438,349,592,367,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Additional claims,16,13,278,59,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+claims,15,76,310,155,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Directions for use,11,161,308,243,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Caution-warning statements,13,265,224,312,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Manufacturer-packer-distributor name address,229,266,314,364,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+FDA disclaimer,16,316,220,364,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+supplement-facts-table,729,16,876,282,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Daily Value Footnotes,737,258,856,276,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Other ingredients,729,284,874,315,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+allergens,727,314,873,366,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Manufacturer-packer-distributor name address,887,31,973,113,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+logo,886,116,969,164,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Certifications or seals,885,164,982,193,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Barcode-UPC,887,204,984,358,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Principal Display Panel -PDP-,344,4,721,379,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Information Panel,722,2,1009,379,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+Other Panels,1,1,341,379,acid-calm_pdf_page_1_png.rf.c4c9dd2d959e099769ca3e8c2dbb1b99.jpg,1008,378
+logo,8,8,86,50,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+statement of identity,17,335,110,352,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+claims,196,8,259,49,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+product name,19,61,257,157,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+claims,9,160,260,186,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+claims,4,193,272,304,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Net quantity,13,311,93,332,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Certifications or seals,193,283,257,344,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Directions for use,285,13,461,116,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+supplement-facts-table,285,117,460,250,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Daily Value Footnotes,286,250,460,263,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Daily Value Footnotes,284,263,459,294,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+allergens,283,295,368,304,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Manufacturer-packer-distributor name address,284,307,377,351,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+logo,381,302,445,347,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+claims,471,2,739,52,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Additional claims,470,52,739,209,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+claims,481,212,625,316,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+vignettes,644,274,710,306,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+FDA disclaimer,482,323,730,345,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+logo,747,3,815,29,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+product name,768,34,922,94,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+claims,742,99,941,231,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Certifications or seals,752,231,925,264,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Caution-warning statements,744,265,936,349,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Principal Display Panel -PDP-,1,1,273,353,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Information Panel,272,1,468,350,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Other Panels,469,1,741,353,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Other Panels,741,1,941,353,Fast-Acting-Enzymes-dailyprobiotic_pdf_page_1_png.rf.3a69eb026aadcad8268398c91794f776.jpg,940,352
+Barcode-UPC,1153,448,1315,526,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+supplement-facts-table,728,66,1061,346,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+Daily Value Footnotes,729,347,1060,382,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+claims,500,404,582,464,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+vignettes,480,358,605,480,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+FDA disclaimer,662,150,701,449,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+Other ingredients,728,382,1061,412,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+claims,70,309,193,419,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+statement of identity,245,449,465,477,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+statement of identity,217,319,502,358,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+logo,199,33,514,185,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+product name,176,235,564,316,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+claims,218,482,486,510,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+Net quantity,210,516,513,559,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+Directions for use,728,418,1052,460,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+Manufacturer-packer-distributor name address,722,460,1062,522,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+logo,1064,64,1183,120,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+Additional claims,1184,62,1415,121,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+claims,1064,126,1423,240,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+FDA disclaimer,1072,242,1409,285,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+claims,1118,287,1364,374,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+Certifications or seals,1070,378,1408,446,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+Additional claims,268,183,451,246,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+Principal Display Panel -PDP-,1,3,713,559,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+Information Panel,713,3,1065,559,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+Other Panels,1063,1,1423,559,smartcatchforteens_pdf_page_1_png.rf.7b517f6fefe3521763cb8257750886a2.jpg,1422,558
+supplement-facts-table,1624,26,2366,910,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Other ingredients,1631,913,2371,964,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+brand name,830,33,1411,89,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+logo,883,115,1471,514,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Directions for use,910,534,1450,596,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+claims,1060,620,1448,853,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+claims,626,768,811,879,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+statement of identity,797,899,1185,949,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Net quantity,1211,903,1424,950,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+country of origin,444,826,565,875,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Manufacturer-packer-distributor name address,37,701,424,876,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Recycle or packaging icons,444,759,564,817,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Barcode-UPC,53,589,504,688,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+allergens,38,548,565,578,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+FDA disclaimer,38,445,565,541,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Caution-warning statements,36,269,568,374,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Directions for use,34,113,569,149,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Caution-warning statements,35,152,572,254,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Caution-warning statements,34,384,566,409,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Caution-warning statements,36,411,293,435,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Storage instructions,294,412,561,437,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Information Panel,1597,1,2401,999,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Principal Display Panel -PDP-,588,1,1596,998,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+Other Panels,1,5,590,1001,Multi-Vitamin-2000-_pdf_page_1_png.rf.f846f63b685a2e3d5689e7d8bdd8b189.jpg,2400,1000
+brand name,98,166,867,336,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+brand name,2502,154,3227,344,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Directions for use,2451,408,3219,616,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+supplement-facts-table,2450,620,3215,1238,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Other ingredients,2452,1246,3213,1346,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Caution-warning statements,2456,1363,3207,1472,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Manufacturer-packer-distributor name address,2662,1567,3198,1684,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Barcode-UPC,2484,1737,3193,1974,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Certifications or seals,2451,1563,2657,1694,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+sku,2974,1689,3193,1731,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+country of origin,2455,1480,2585,1547,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Net quantity,1136,1844,1267,1959,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+statement of identity,1318,1844,1575,1964,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+FDA disclaimer,104,1819,1037,1967,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Certifications or seals,1898,1691,2177,1966,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+ingredients,1116,1364,1876,1650,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+claims,92,414,1022,806,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Directions for use,95,821,1023,927,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Caution-warning statements,101,941,1041,1777,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+brand name,1023,24,2388,342,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+logo,1123,531,2204,1080,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+claims,1123,1091,2423,1170,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+claims,2611,1486,3211,1553,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Information Panel,2421,345,3295,1975,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Principal Display Panel -PDP-,1032,345,2417,1969,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+Other Panels,1,345,1041,1958,Thermo-Rise-02_pdf_page_1_png.rf.8ca24cf9743d01fda6a7fc1b0f93cd13.jpg,3294,1974
+supplement-facts-table,51,178,1181,1186,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+FDA disclaimer,48,1291,1064,1537,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+Daily Value Footnotes,48,1191,740,1274,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+logo,1244,1,2739,238,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+statement of identity,1271,248,2735,465,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+claims,1264,471,2733,595,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+claims,1261,598,2735,681,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+Net quantity,1684,1304,2447,1391,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+claims,1281,1408,2732,1589,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+vignettes,1261,684,2737,1289,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+Directions for use,2914,171,3926,531,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+Caution-warning statements,2911,571,3932,1196,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+Manufacturer-packer-distributor name address,3041,1218,3777,1590,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+Information Panel,1,1,1239,1634,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+Principal Display Panel -PDP-,1242,1,2745,1641,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+Other Panels,2749,1,4001,1631,African-Mango-Maximum-Strength-_pdf_page_1_png.rf.b5ed88cd715ba724b8b1ff4687b5085d.jpg,4000,1640
+claims,587,27,835,43,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+claims,39,27,288,46,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+claims,352,1,506,52,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+product name,319,86,576,188,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+claims,323,196,556,308,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+Directions for use,83,58,294,126,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+Caution-warning statements,84,130,290,210,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+FDA disclaimer,86,213,292,250,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+Certifications or seals,28,66,81,318,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+Barcode-UPC,84,256,282,299,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+Manufacturer-packer-distributor name address,86,297,246,353,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+supplement-facts-table,586,56,833,321,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+Daily Value Footnotes,593,303,729,320,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+Other ingredients,596,321,817,351,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+Net quantity,333,360,412,379,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+statement of identity,423,364,549,378,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+Other ingredients,1,2,308,393,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+Principal Display Panel -PDP-,309,1,582,393,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+Information Panel,582,1,861,393,skinvite_pdf_page_1_png.rf.413b5bb840c2085022caeae63c8d3311.jpg,860,392
+product name,588,261,712,341,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+logo,108,8,458,114,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+product name,22,117,229,236,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+product name,8,265,310,430,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+claims,268,140,576,236,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+vignettes,324,265,619,501,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Net quantity,325,521,507,547,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+claims,330,548,563,589,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+statement of identity,322,588,506,617,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+claims,11,452,260,544,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+product name,22,651,225,755,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Net quantity,314,670,522,701,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+sku,630,662,661,724,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Certifications or seals,327,711,497,752,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Manufacturer-packer-distributor name address,64,780,254,834,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+sku,301,772,504,867,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Other ingredients,11,842,250,894,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+FDA disclaimer,262,870,573,921,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+claims,264,1135,572,1184,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Directions for use,258,1027,572,1132,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Caution-warning statements,261,921,572,1025,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+supplement-facts-table,2,897,252,1230,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Daily Value Footnotes,15,900,248,935,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+product name,431,1180,574,1259,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Principal Display Panel -PDP-,1,251,588,635,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Other Panels,4,1,588,253,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Other Panels,585,1,721,253,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Other Panels,590,257,721,640,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Other Panels,588,640,721,1271,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+Other Panels,1,637,586,1271,8_pdf_page_1_png.rf.a12edf15578792cc83949d54b3808747.jpg,720,1270
+claims,232,30,736,170,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+claims,383,232,816,659,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+Barcode-UPC,158,296,356,698,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+claims,1009,435,1358,560,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+Net quantity,966,594,1159,617,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+statement of identity,966,625,1293,655,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+ingredients,963,311,1333,381,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+Other Panels,1727,550,2081,645,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+supplement-facts-table,1718,18,2093,550,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+Directions for use,2098,18,2384,98,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+allergens,2102,112,2363,182,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+Storage instructions,2101,193,2391,241,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+FDA disclaimer,2098,251,2392,384,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+Caution-warning statements,2102,390,2389,561,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+Manufacturer-packer-distributor name address,2099,566,2359,658,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+logo,2492,4,2992,96,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+logo,952,6,1545,302,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+claims,2497,102,2948,187,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+ingredients,2655,289,2814,326,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+ingredients,2656,431,2942,462,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+ingredients,2656,561,2974,654,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+claims,2655,328,2915,386,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+claims,2655,467,2969,525,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+ingredients,1358,611,1583,658,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+Principal Display Panel -PDP-,855,1,1712,701,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+Other Panels,30,1,852,701,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+Information Panel,1720,3,2442,701,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+Other Panels,2445,1,3001,699,Sleep-Immune-Health-Berry-_pdf_page_1_png.rf.40057701657084e1c624d0c714d94061.jpg,3000,700
+supplement-facts-table,3132,564,3836,1036,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Other ingredients,3133,1040,3829,1111,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Caution-warning statements,3102,1114,3862,1231,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Manufacturer-packer-distributor name address,3093,1239,3874,1342,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+country of origin,3027,1343,3218,1380,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Additional claims,3030,1381,3940,1411,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+sku,3137,1465,3914,1700,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+sku,3803,1345,3925,1376,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+sku,2053,465,2284,503,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+logo,2181,520,2790,775,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+statement of identity,2358,796,2789,825,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+claims,2086,911,2893,1247,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+FDA disclaimer,2158,1278,2811,1399,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+logo,1156,478,1838,782,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+statement of identity,1343,785,1837,836,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+claims,1039,953,1941,1180,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Net quantity,1220,1221,1749,1262,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+claims,1159,1288,1833,1408,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Barcode-UPC,1210,1545,1769,1807,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+FDA disclaimer,162,1272,818,1403,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+sku,338,1552,562,1587,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+claims,194,1000,790,1156,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+sku,60,462,277,498,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+logo,191,520,799,779,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+statement of identity,368,788,803,825,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Directions for use,3143,477,3840,554,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Other ingredients,2341,52,2829,121,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Manufacturer-packer-distributor name address,2339,124,2836,238,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Additional claims,2338,241,2833,296,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+supplement-facts-table,1900,58,2331,294,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Directions for use,1474,54,1894,152,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Caution-warning statements,1478,167,1894,295,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+country of origin,1170,261,1309,290,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+claims,1054,51,1314,169,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+statement of identity,610,255,962,287,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+logo,476,23,962,246,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Net quantity,218,225,418,293,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+sku,120,54,261,79,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Information Panel,2977,397,4000,1462,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Other Panels,2988,1478,4001,1854,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Other Panels,1999,415,2980,1456,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Principal Display Panel -PDP-,983,418,1996,1449,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Other Panels,974,1455,1998,1857,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Other Panels,1,390,974,1455,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Other Panels,1,1448,982,1857,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+Other Panels,1,1,2981,404,Heliocare-Ultra_pdf_page_1_png.rf.957e120486256558a4e43900afb7f7ad.jpg,4000,1856
+claims,367,8,456,24,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Certifications or seals,461,10,480,26,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+logo,554,6,638,33,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Additional claims,290,11,354,27,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+logo,284,60,355,257,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Manufacturer-packer-distributor name address,290,285,354,299,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Net quantity,366,243,432,255,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+statement of identity,368,258,454,270,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+logo,654,157,716,297,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+logo,359,51,622,149,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+claims,465,157,628,212,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Certifications or seals,562,220,616,275,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Additional claims,369,285,603,302,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Additional claims,646,16,715,152,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+claims,5,11,276,87,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Directions for use,6,89,107,108,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Caution-warning statements,7,109,105,161,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Caution-warning statements,6,166,105,233,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Manufacturer-packer-distributor name address,7,240,87,271,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+supplement-facts-table,109,90,273,214,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Daily Value Footnotes,114,201,184,213,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Other ingredients,110,214,274,229,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Manufacturer-packer-distributor name address,110,232,249,248,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Additional claims,109,249,275,263,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+FDA disclaimer,109,264,274,290,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Barcode-UPC,385,320,489,376,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Principal Display Panel -PDP-,359,7,640,304,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Other ingredients,641,1,719,303,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Other Panels,640,304,721,377,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Other Panels,359,306,642,377,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Other Panels,282,4,359,303,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Information Panel,1,2,282,307,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+Other Panels,1,307,359,377,Enzyte_pdf_page_1_png.rf.a906454a2dd82ea4bc0fb14c3f09a59d.jpg,720,376
+logo,464,2,570,59,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+claims,692,2,882,55,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+statement of identity,457,60,897,328,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+claims,555,318,809,431,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Net quantity,608,474,737,506,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+statement of identity,770,450,889,509,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+claims,470,476,586,505,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+vignettes,468,379,581,477,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+claims,2,2,415,146,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+claims,23,152,415,303,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Certifications or seals,69,308,340,394,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+sku,4,315,29,399,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Barcode-UPC,2,408,199,511,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+FDA disclaimer,202,406,416,452,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Additional claims,202,454,417,508,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Directions for use,942,1,1275,46,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+sku,1325,13,1344,77,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+supplement-facts-table,940,49,1275,328,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Other ingredients,942,329,1277,372,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Manufacturer-packer-distributor name address,941,373,1278,400,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Additional claims,938,401,1278,413,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Caution-warning statements,938,414,1276,440,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Caution-warning statements,938,441,1167,506,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Manufacturer-packer-distributor name address,1171,491,1281,508,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+logo,1167,431,1283,491,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Other Panels,1,1,438,511,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Information Panel,921,4,1353,511,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+Principal Display Panel -PDP-,438,1,920,511,Daily-Probiotics-Kids_pdf_page_1_png.rf.f4828d83d826e53a5844a19494c6069e.jpg,1352,510
+FDA disclaimer,559,28,813,58,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+claims,580,82,781,154,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Additional claims,580,157,791,205,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+product name,544,284,808,394,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+statement of identity,542,400,826,510,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+claims,566,504,772,601,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+vignettes,766,489,828,640,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+vignettes,337,499,531,555,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+vignettes,538,562,630,652,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Directions for use,652,634,830,675,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Net quantity,540,642,596,702,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+statement of identity,601,675,829,700,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+claims,322,306,534,577,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+claims,844,226,1049,664,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+FDA disclaimer,845,668,1053,700,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Directions for use,27,154,260,173,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Caution-warning statements,29,169,152,190,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Other ingredients,172,185,294,444,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+allergens,212,429,264,442,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+supplement-facts-table,32,190,168,566,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Daily Value Footnotes,36,551,152,563,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Caution-warning statements,28,567,301,659,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Manufacturer-packer-distributor name address,30,659,251,697,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+sku,255,680,300,695,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Principal Display Panel -PDP-,529,1,834,715,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Other Panels,834,1,1081,715,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Other Panels,307,1,531,715,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+Information Panel,1,1,306,715,17_pdf_page_1_png.rf.b697159b42d12c078d10ed0f8fc8b488.jpg,1080,714
+logo,412,5,564,44,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+product name,341,79,647,180,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+claims,351,205,636,314,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+Net quantity,362,342,410,388,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+statement of identity,415,359,605,379,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+claims,17,44,269,78,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+Directions for use,16,83,241,156,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+Caution-warning statements,17,162,243,238,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+FDA disclaimer,24,251,245,284,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+Barcode-UPC,36,286,238,331,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+Manufacturer-packer-distributor name address,12,337,193,388,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+Certifications or seals,684,46,741,335,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+supplement-facts-table,744,21,985,374,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+Daily Value Footnotes,752,313,918,334,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+Other ingredients,750,337,972,358,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+allergens,749,357,817,372,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+Principal Display Panel -PDP-,296,2,684,393,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+Information Panel,685,1,1003,393,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+Other Panels,1,4,294,393,podivite_pdf_page_1_png.rf.7cc703b258721a7628ab4251344b6251.jpg,1002,392
+logo,422,22,538,112,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+vignettes,399,1,455,50,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+claims,541,44,725,93,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+product name,432,123,732,174,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+claims,451,173,714,215,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+statement of identity,513,220,647,252,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+statement of identity,626,334,741,355,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Certifications or seals,440,255,512,310,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+statement of identity,521,259,639,303,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Additional claims,421,317,496,337,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Net quantity,421,334,491,350,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+claims,665,314,741,334,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+claims,21,18,329,191,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Directions for use,14,195,327,232,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Caution-warning statements,15,239,230,286,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+allergens,16,287,266,325,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+FDA disclaimer,14,325,279,371,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Certifications or seals,263,237,336,299,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Certifications or seals,276,299,337,377,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+supplement-facts-table,825,8,1151,281,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Daily Value Footnotes,833,256,1032,279,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Other ingredients,829,280,1139,325,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Caution-warning statements,829,324,1136,370,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Additional claims,1236,15,1483,128,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Manufacturer-packer-distributor name address,1239,278,1429,331,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Certifications or seals,1235,129,1276,277,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Additional claims,1280,129,1432,272,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Principal Display Panel -PDP-,375,1,785,381,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Other Panels,1,1,377,381,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Information Panel,786,1,1193,381,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Other Panels,1195,1,1567,381,Kids-Study-Buddy-Attention-Focus-Gummies-Berry-Flavor-_pdf_page_1_png.rf.798e3bfae4dcf7aee5df0fc2b29a2fac.jpg,1566,380
+Net quantity,429,254,561,281,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+statement of identity,586,256,745,281,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+claims,433,228,588,252,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+statement of identity,454,150,719,219,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+vignettes,446,42,733,151,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+logo,422,6,551,45,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+product name,26,1,319,70,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+product name,616,228,676,251,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+claims,24,70,248,133,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+claims,30,139,356,285,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Directions for use,814,4,1086,21,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+supplement-facts-table,813,22,1179,223,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Daily Value Footnotes,818,203,1174,219,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Other ingredients,815,223,1175,257,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+allergens,815,256,1169,284,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Barcode-UPC,1461,113,1574,248,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Caution-warning statements,1234,7,1453,102,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Manufacturer-packer-distributor name address,1237,113,1364,198,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Certifications or seals,1238,200,1348,250,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+logo,1368,170,1421,248,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+FDA disclaimer,1239,251,1575,281,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Principal Display Panel -PDP-,383,1,788,289,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Information Panel,788,1,1207,289,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Other Panels,1208,1,1603,289,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Other Panels,1,1,384,289,Joint-Collagen_pdf_page_1_png.rf.8d67cdb5e314e8762935a68e5b35a6a7.jpg,1602,288
+Other Panels,1,1,1362,1443,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+supplement-facts-table,2818,74,3863,774,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+Other ingredients,2818,771,3858,874,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+FDA disclaimer,2814,888,3856,1072,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+Manufacturer-packer-distributor name address,2808,1121,3342,1389,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+Certifications or seals,3574,1081,3852,1407,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+logo,1744,51,2542,341,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+statement of identity,1738,348,2536,764,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+claims,1728,804,2534,1211,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+Net quantity,1724,1254,2102,1400,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+statement of identity,2131,1251,2422,1390,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+Directions for use,44,471,1087,598,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+Caution-warning statements,44,791,1093,1033,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+claims,41,64,1091,461,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+Certifications or seals,41,601,1088,793,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+Manufacturer-packer-distributor name address,38,1048,521,1132,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+Barcode-UPC,34,1151,682,1399,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+sku,688,1184,891,1327,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+ingredients,1364,1,1674,1441,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+Principal Display Panel -PDP-,1671,4,2794,1440,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+Information Panel,2794,1,3879,1440,SaltStick-Electrolyte-Caps-_pdf_page_1_png.rf.0e7c13b63d873cc00ede9c8776947588.jpg,3882,1442
+vignettes,244,1,337,58,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+vignettes,209,213,300,296,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+vignettes,65,144,263,169,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+vignettes,52,174,85,293,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+vignettes,79,281,222,303,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+vignettes,198,379,250,440,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Additional claims,4,9,55,51,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Additional claims,2,212,50,273,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+claims,71,312,273,336,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Net quantity,138,339,208,356,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Net quantity,38,395,94,413,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+statement of identity,9,332,48,355,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+logo,124,87,219,126,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+logo,133,172,213,199,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+product name,101,198,235,243,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+product name,119,369,213,407,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Additional claims,109,249,222,265,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Additional claims,129,407,204,420,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Caution-warning statements,19,443,149,502,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Directions for use,17,507,156,567,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Caution-warning statements,17,567,154,626,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+FDA disclaimer,19,626,148,654,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Barcode-UPC,31,656,138,709,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+sku,21,689,27,707,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Certifications or seals,140,645,181,710,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+supplement-facts-table,185,458,321,644,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Daily Value Footnotes,189,621,316,640,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Other ingredients,187,646,307,675,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Manufacturer-packer-distributor name address,185,678,322,709,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Other Panels,3,3,337,71,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Other Panels,2,360,337,438,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Principal Display Panel -PDP-,2,70,337,364,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+Information Panel,1,436,337,721,14_pdf_page_1_png.rf.594ad37d3d465a98d76c941e69a92839.jpg,336,720
+logo,215,16,421,134,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+product name,234,139,386,192,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+statement of identity,226,320,394,340,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+country of origin,250,341,372,357,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Net quantity,255,267,350,294,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+statement of identity,211,196,424,228,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Certifications or seals,362,267,425,321,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Directions for use,5,6,180,62,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Caution-warning statements,3,66,180,100,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+claims,6,132,107,148,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+sku,10,153,179,224,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Caution-warning statements,4,229,116,245,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Manufacturer-packer-distributor name address,8,315,161,349,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+sku,6,351,41,362,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+supplement-facts-table,454,2,707,242,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Daily Value Footnotes,458,210,601,239,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Other ingredients,456,245,701,268,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+allergens,457,270,624,293,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Manufacturer-packer-distributor name address,456,295,582,353,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+claims,707,1,973,296,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+FDA disclaimer,714,298,971,367,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Principal Display Panel -PDP-,183,3,441,363,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Other Panels,1,1,184,367,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+supplement-facts-table,440,1,706,367,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+Other Panels,706,1,973,367,Omega-3-_-QH-Ultra_pdf_page_1_png.rf.d8a21a80fb3a1ef8888aeda3417163a7.jpg,972,366
+logo,250,15,456,86,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+claims,378,65,457,93,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+claims,22,23,192,217,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+FDA disclaimer,22,226,192,253,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+product name,261,119,445,171,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+claims,261,186,419,224,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Net quantity,258,233,324,251,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+statement of identity,330,236,421,249,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Directions for use,516,20,672,30,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+supplement-facts-table,514,32,686,130,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Daily Value Footnotes,518,118,609,132,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Other ingredients,517,131,660,142,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Additional claims,518,148,636,160,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+sku,688,22,698,65,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Caution-warning statements,514,177,684,216,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Barcode-UPC,517,218,617,251,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Manufacturer-packer-distributor name address,628,217,682,252,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Certifications or seals,470,162,495,253,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Principal Display Panel -PDP-,221,1,501,269,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Information Panel,502,1,721,269,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Other Panels,1,1,221,269,Peptisol-_pdf_page_1_png.rf.871ed2dc816b9030d089e8731d715a37.jpg,720,268
+Additional claims,105,6,212,25,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Caution-warning statements,3,12,76,61,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Barcode-UPC,4,64,90,190,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+vignettes,19,202,72,312,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+vignettes,107,120,226,240,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+statement of identity,106,33,345,56,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Additional claims,104,59,281,76,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+claims,107,81,226,113,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+claims,286,122,343,179,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Net quantity,109,244,192,260,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+statement of identity,109,261,249,276,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Net quantity,286,180,341,235,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+FDA disclaimer,108,280,343,310,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Directions for use,358,7,571,39,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+supplement-facts-table,361,39,573,165,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Other ingredients,362,168,573,226,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Additional claims,366,232,600,247,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Additional claims,363,254,559,311,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Caution-warning statements,576,6,711,73,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Manufacturer-packer-distributor name address,575,73,714,87,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Additional claims,575,88,694,136,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+allergens,576,136,646,149,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Manufacturer-packer-distributor name address,576,153,705,209,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+sku,673,250,721,321,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Principal Display Panel -PDP-,1,3,356,321,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+Other Panels,354,1,721,321,Calcium-Citrate-D3-_pdf_page_1_png.rf.a88b29cd4bba7bd8750c5525f680bef7.jpg,720,320
+logo,380,7,552,113,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+claims,378,112,549,130,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+statement of identity,345,141,597,197,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+claims,360,205,583,269,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+claims,542,260,604,322,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+vignettes,544,259,604,321,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Certifications or seals,337,278,444,331,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+sku,322,273,335,329,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Net quantity,451,304,526,325,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+claims,29,31,276,199,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+FDA disclaimer,31,202,180,228,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Additional claims,199,163,262,216,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Manufacturer-packer-distributor name address,182,219,271,248,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Additional claims,182,252,270,274,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+claims,18,283,299,311,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Additional claims,19,309,297,330,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Manufacturer-packer-distributor name address,647,293,881,324,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+supplement-facts-table,664,31,823,290,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Daily Value Footnotes,668,256,823,281,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Other ingredients,829,32,840,281,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Other ingredients,839,190,851,280,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Directions for use,841,34,853,190,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Caution-warning statements,853,34,865,278,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Principal Display Panel -PDP-,315,1,623,337,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Information Panel,623,1,901,337,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+Other Panels,1,1,315,337,Wild-Whole-Krill-Oil_pdf_page_1_png.rf.ec778d295f3c0c33c15b292682c3f28f.jpg,900,336
+logo,123,17,367,133,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+statement of identity,108,152,367,286,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+statement of identity,156,315,326,341,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+Net quantity,183,374,294,396,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+claims,37,338,442,372,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+supplement-facts-table,484,46,777,188,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+Other ingredients,483,190,775,223,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+Directions for use,483,225,774,280,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+FDA disclaimer,481,281,780,317,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+claims,486,320,779,338,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+Manufacturer-packer-distributor name address,483,341,777,386,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+claims,784,46,1027,304,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+Barcode-UPC,794,310,990,387,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+sku,990,321,1008,373,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+Principal Display Panel -PDP-,1,4,477,405,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+Information Panel,476,3,778,405,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+Other Panels,779,2,1037,404,CGels_pdf_page_1_png.rf.1893e6702cc66c2543493f9999b31250.jpg,1036,404
+vignettes,418,293,701,604,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+logo,124,1,534,110,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+product name,16,133,266,256,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+claims,313,143,671,262,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+product name,11,294,362,499,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+claims,9,526,298,631,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Net quantity,346,603,583,636,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Additional claims,363,636,648,682,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+statement of identity,353,681,577,716,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+product name,23,749,259,885,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Net quantity,383,784,617,812,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Certifications or seals,421,829,584,871,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+sku,383,899,616,1015,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+add,73,911,296,974,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+sku,1,911,31,982,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+product name,516,1392,673,1480,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+claims,308,1337,677,1389,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Directions for use,308,1204,679,1331,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Caution-warning statements,308,1080,679,1203,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+FDA disclaimer,307,1012,673,1077,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Other Panels,7,993,295,1043,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+supplement-facts-table,8,1046,299,1448,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Daily Value Footnotes,12,1051,293,1094,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Principal Display Panel -PDP-,1,278,699,736,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Other Panels,1,1,698,279,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Other Panels,1,737,701,895,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Information Panel,1,897,701,1511,9_pdf_page_1_png.rf.5c5430f52ed64283a9ab15f24bdba3f3.jpg,700,1510
+Directions for use,359,282,430,305,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Directions for use,267,14,322,33,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+logo,363,307,532,354,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+logo,13,311,162,357,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+logo,269,34,392,66,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+product name,364,354,533,430,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+claims,369,433,528,458,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+claims,196,349,336,506,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+claims,9,358,166,511,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+vignettes,59,514,126,550,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+vignettes,81,214,119,243,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+vignettes,272,174,379,246,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+vignettes,298,492,343,540,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+vignettes,366,479,528,595,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+vignettes,13,70,44,105,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+claims,15,102,112,212,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+claims,266,123,386,141,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Additional claims,365,595,504,620,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+statement of identity,366,619,447,636,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Net quantity,365,645,412,660,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Net quantity,302,264,352,276,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+statement of identity,278,248,371,260,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Additional claims,26,548,152,587,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Manufacturer-packer-distributor name address,15,594,158,658,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Certifications or seals,194,545,344,577,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Caution-warning statements,195,590,342,608,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+FDA disclaimer,184,610,352,643,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Certifications or seals,450,623,532,657,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+supplement-facts-table,549,296,708,430,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Daily Value Footnotes,548,415,628,427,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Other Panels,551,427,708,465,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Manufacturer-packer-distributor name address,553,465,689,498,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Directions for use,551,501,708,588,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Caution-warning statements,550,592,707,660,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Barcode-UPC,577,222,679,261,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+sku,610,167,642,185,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+vignettes,188,302,236,348,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+logo,14,33,113,73,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Manufacturer-packer-distributor name address,15,244,117,271,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Caution-warning statements,132,255,255,271,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Barcode-UPC,138,212,242,253,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+sku,243,208,253,240,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+allergens,124,117,254,140,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Directions for use,123,31,258,119,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Certifications or seals,125,140,253,167,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Certifications or seals,124,167,254,212,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+product name,268,68,387,119,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Certifications or seals,269,141,329,168,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+supplement-facts-table,397,13,527,123,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Daily Value Footnotes,397,110,463,123,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Other ingredients,396,123,527,166,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Manufacturer-packer-distributor name address,395,166,530,200,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Caution-warning statements,395,199,530,270,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Principal Display Panel -PDP-,357,282,540,664,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Principal Display Panel -PDP-,256,1,396,282,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+supplement-facts-table,397,9,531,122,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+supplement-facts-table,549,298,709,428,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Other Panels,178,284,357,667,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Other Panels,1,283,177,667,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Other Panels,1,1,123,281,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Other Panels,123,1,256,282,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Information Panel,397,1,557,280,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Information Panel,540,283,721,667,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+Other Panels,560,164,719,283,6_pdf_page_1_png.rf.9eb23a50187abd1a9af175c220d8ec5c.jpg,720,666
+product name,324,140,538,196,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+claims,326,218,562,264,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+logo,305,5,566,94,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+claims,444,61,572,113,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+claims,14,19,238,266,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+supplement-facts-table,15,269,239,297,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+Net quantity,322,277,440,298,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+statement of identity,453,279,559,294,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+supplement-facts-table,649,23,850,120,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+Daily Value Footnotes,653,104,754,119,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+Other ingredients,655,124,833,150,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+Directions for use,652,150,839,164,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+Additional claims,652,163,844,187,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+Caution-warning statements,652,189,851,249,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+Barcode-UPC,649,249,770,296,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+Manufacturer-packer-distributor name address,776,249,848,297,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+sku,853,249,870,295,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+Principal Display Panel -PDP-,249,1,642,300,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+Other Panels,1,1,249,300,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+Information Panel,642,1,883,300,CoQ10-SR-_pdf_page_1_png.rf.fac8d6e5e6a8844eb8a9173d1754ae85.jpg,884,299
+claims,37,20,156,49,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+claims,214,22,331,46,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+claims,392,23,511,44,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+claims,574,24,690,44,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+claims,12,55,174,265,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+claims,195,60,354,133,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+claims,194,164,344,264,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+claims,370,210,537,237,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+vignettes,15,84,53,118,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+vignettes,121,282,173,350,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+vignettes,190,130,244,167,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+vignettes,297,246,355,295,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+vignettes,373,241,533,396,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+allergens,12,287,141,333,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Manufacturer-packer-distributor name address,19,349,172,374,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Manufacturer-packer-distributor name address,12,397,176,426,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Barcode-UPC,46,435,148,473,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+country of origin,428,440,479,474,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+sku,434,473,469,487,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Certifications or seals,242,323,311,357,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Caution-warning statements,199,354,345,376,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+FDA disclaimer,193,377,357,399,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Additional claims,212,406,334,423,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+product name,398,99,506,204,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+logo,376,59,533,99,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+statement of identity,414,397,499,410,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Net quantity,426,408,492,424,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+supplement-facts-table,553,62,714,182,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Daily Value Footnotes,554,160,689,180,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Other ingredients,552,181,714,202,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+allergens,551,203,713,221,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Directions for use,553,222,713,337,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Caution-warning statements,553,336,714,424,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Principal Display Panel -PDP-,364,16,544,432,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Information Panel,544,16,721,432,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Other Panels,185,16,364,432,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Other Panels,1,16,184,429,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+Other Panels,2,428,721,487,3_pdf_page_1_png.rf.da3eed306e22389de4112a24db1202a5.jpg,720,486
+logo,353,14,531,76,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+claims,320,100,555,122,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+statement of identity,346,131,532,218,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+claims,344,224,528,266,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+claims,328,276,555,326,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+statement of identity,303,349,468,374,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+Net quantity,479,347,574,374,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+Certifications or seals,229,310,295,371,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+sku,107,286,153,299,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+Barcode-UPC,44,296,221,373,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+claims,36,13,228,112,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+Directions for use,38,117,228,183,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+Caution-warning statements,38,186,227,256,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+FDA disclaimer,244,14,285,291,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+sku,611,355,765,373,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+supplement-facts-table,610,13,842,110,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+Other ingredients,613,118,843,166,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+Manufacturer-packer-distributor name address,611,172,845,207,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+sku,611,211,655,222,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+allergens,609,226,843,278,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+Caution-warning statements,609,282,842,347,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+Principal Display Panel -PDP-,299,4,585,381,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+Information Panel,583,1,879,381,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+Other Panels,1,2,296,381,Biotin-1000-mcg-_pdf_page_1_png.rf.e70e03df650467324fae7340d2f6ae8f.jpg,878,380
+logo,357,11,530,86,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+claims,326,97,556,120,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+statement of identity,297,132,587,217,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+claims,340,219,535,267,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+claims,326,273,560,327,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+statement of identity,299,350,457,372,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Net quantity,469,347,574,373,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+claims,34,13,226,109,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Directions for use,36,109,228,168,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Caution-warning statements,35,172,228,218,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+FDA disclaimer,33,222,231,261,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+sku,108,283,152,299,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Barcode-UPC,39,301,219,375,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Certifications or seals,234,326,279,369,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+supplement-facts-table,609,13,842,114,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Daily Value Footnotes,616,93,747,108,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Other ingredients,609,117,844,156,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Manufacturer-packer-distributor name address,608,160,846,194,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+allergens,608,196,839,247,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Caution-warning statements,611,251,844,342,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+sku,612,355,768,372,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Principal Display Panel -PDP-,289,3,596,380,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Information Panel,597,2,875,381,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+Other Panels,1,2,289,381,Melatonin-3-mg_pdf_page_1_png.rf.257a756571514b771d48236cda41d3c8.jpg,874,380
+statement of identity,61,11,214,95,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Barcode-UPC,1,6,48,103,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+vignettes,15,221,51,293,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+vignettes,68,158,164,252,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+claims,63,99,207,123,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Additional claims,240,12,287,59,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+statement of identity,296,11,313,185,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+statement of identity,139,254,277,274,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Net quantity,63,257,139,273,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+claims,243,166,287,206,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Net quantity,244,207,286,247,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+FDA disclaimer,65,276,286,297,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+supplement-facts-table,326,10,495,86,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+ingredients,327,91,492,152,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Manufacturer-packer-distributor name address,328,156,439,197,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Directions for use,327,206,482,236,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+sku,504,285,598,298,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+sku,676,250,721,303,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+claims,501,8,707,81,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Caution-warning statements,502,82,708,141,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+allergens,502,142,662,154,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Caution-warning statements,503,154,705,177,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Caution-warning statements,503,179,591,190,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Manufacturer-packer-distributor name address,495,194,645,205,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+FDA disclaimer,501,206,677,250,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+allergens,502,251,574,265,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Principal Display Panel -PDP-,1,1,319,303,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Information Panel,318,1,499,303,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Other Panels,500,1,721,303,Calcium-Vitamin-D3-600-mg_20-mcg-_pdf_page_1_png.rf.5fc526a2a56e523c2008b21fa58c674e.jpg,720,302
+Directions for use,18,15,177,90,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Barcode-UPC,1,90,63,305,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Caution-warning statements,65,92,169,153,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+allergens,67,153,169,222,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+claims,64,229,170,253,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+sku,65,255,147,273,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+country of origin,67,277,149,296,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+logo,187,12,284,80,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+claims,294,2,447,88,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+claims,180,147,256,232,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Additional claims,184,238,296,261,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+statement of identity,242,88,428,240,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+statement of identity,182,276,286,296,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Net quantity,330,258,403,296,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Manufacturer-packer-distributor name address,459,10,654,41,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+supplement-facts-table,458,45,660,194,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Other ingredients,458,194,654,215,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+FDA disclaimer,458,232,660,278,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Manufacturer-packer-distributor name address,516,276,632,296,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Certifications or seals,414,244,447,297,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Principal Display Panel -PDP-,176,2,455,305,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Information Panel,456,2,675,305,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Other Panels,1,1,177,305,Vitamin-B12-Raspberry-_pdf_page_1_png.rf.8b1adabc8c4a17ce14fffb9e00c1dff7.jpg,674,304
+Additional claims,152,4,209,42,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Additional claims,11,18,127,65,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+product name,16,60,247,171,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+claims,68,175,206,223,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Net quantity,12,220,84,240,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+statement of identity,18,241,139,281,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Directions for use,169,286,262,307,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+FDA disclaimer,255,72,276,246,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Barcode-UPC,602,172,663,300,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+FDA disclaimer,281,284,446,302,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+supplement-facts-table,281,24,714,127,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Daily Value Footnotes,606,102,700,116,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Other ingredients,282,127,663,178,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Directions for use,280,178,565,197,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Caution-warning statements,279,197,555,212,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Caution-warning statements,283,212,431,239,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Manufacturer-packer-distributor name address,280,240,428,282,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Certifications or seals,452,214,539,238,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+sku,554,216,588,226,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Additional claims,450,234,591,293,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Principal Display Panel -PDP-,1,1,272,308,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+Information Panel,272,1,721,309,19_pdf_page_1_png.rf.026c2108871c4d8948d066715fcbe8c2.jpg,720,308
+logo,401,52,625,625,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+statement of identity,369,216,396,540,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Net quantity,332,548,392,621,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+claims,336,216,360,497,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+logo,16,17,242,106,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+claims,18,116,238,267,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+FDA disclaimer,18,274,244,327,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Directions for use,16,336,239,444,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Caution-warning statements,17,459,237,607,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+supplement-facts-table,753,27,969,226,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Other Panels,753,237,966,263,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Manufacturer-packer-distributor name address,786,320,933,339,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Certifications or seals,813,343,904,411,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Manufacturer-packer-distributor name address,794,413,924,469,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Manufacturer-packer-distributor name address,795,480,924,510,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Barcode-UPC,793,536,920,612,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Principal Display Panel -PDP-,246,4,741,631,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Information Panel,742,3,991,631,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+Other Panels,1,2,247,631,Midsection-Formula_pdf_page_1_png.rf.4a4beeb59e7b8409100a1a30279bce03.jpg,990,630
+logo,389,5,633,95,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+statement of identity,390,98,635,202,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+statement of identity,551,353,624,384,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+claims,389,216,617,329,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+Net quantity,393,352,538,388,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+supplement-facts-table,652,6,855,214,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+Daily Value Footnotes,655,189,850,200,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+Other ingredients,652,215,855,253,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+FDA disclaimer,650,254,855,300,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+Manufacturer-packer-distributor name address,650,325,780,393,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+Certifications or seals,787,306,852,387,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+ingredients,280,1,376,393,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+claims,9,8,271,244,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+Caution-warning statements,8,249,270,289,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+Manufacturer-packer-distributor name address,7,293,145,311,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+sku,198,326,256,363,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+Barcode-UPC,10,313,195,384,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+Principal Display Panel -PDP-,282,1,645,393,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+Other Panels,1,1,280,393,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+Information Panel,644,1,861,393,electrolyte-fast-chews_pdf_page_1_png.rf.5c1c579a793185628244d81120be7ba7.jpg,860,392
+logo,817,29,1542,229,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+statement of identity,805,247,1572,598,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+statement of identity,1241,725,1565,790,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+Net quantity,823,695,1110,788,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+claims,859,811,1533,867,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+claims,149,27,585,97,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+claims,29,137,746,281,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+Directions for use,29,291,746,448,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+Caution-warning statements,31,453,758,702,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+Barcode-UPC,41,731,467,877,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+sku,477,737,695,783,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+Certifications or seals,475,785,692,857,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+supplement-facts-table,1657,47,2372,336,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+Other ingredients,1653,355,2366,480,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+FDA disclaimer,1651,487,2375,630,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+Manufacturer-packer-distributor name address,1649,673,2375,877,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+Other Panels,1,5,761,893,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+Principal Display Panel -PDP-,763,1,1631,893,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+Information Panel,1633,1,2401,893,CoQ10-100-mg_pdf_page_1_png.rf.0d240f8b6d22d42ee3590f5c37f29d28.jpg,2400,892
+Barcode-UPC,3011,1528,3621,1773,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+Manufacturer-packer-distributor name address,3634,1518,4078,1725,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+supplement-facts-table,2978,184,4043,1080,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+Other ingredients,2974,1084,4039,1238,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+allergens,2974,1244,4038,1350,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+Manufacturer-packer-distributor name address,3261,1461,3612,1523,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+Certifications or seals,3001,1434,3226,1524,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+FDA disclaimer,1784,1578,2908,1762,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+Directions for use,1821,231,2876,487,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+claims,1821,534,2877,1358,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+Certifications or seals,1824,1378,2346,1466,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+statement of identity,1134,1664,1523,1748,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+logo,554,1491,1136,1875,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+logo,738,231,970,523,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+claims,288,558,1397,646,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+claims,298,668,1412,805,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+logo,311,831,1418,1074,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+statement of identity,321,1121,1369,1319,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+Net quantity,1148,1554,1506,1665,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+Other Panels,1631,1,2960,1863,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+Information Panel,2961,4,4195,1875,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+Principal Display Panel -PDP-,4,1,1624,1875,LiQuinone10-Tangerine-Flavor-100-mg-_pdf_page_1_png.rf.6e4c39f6e11d6de51f9fa6856f1d4175.jpg,4194,1874
+Barcode-UPC,17,20,128,346,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+Directions for use,151,33,345,79,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+Caution-warning statements,149,81,367,190,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+Certifications or seals,196,190,320,245,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+FDA disclaimer,149,250,360,299,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+sku,152,310,329,329,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+logo,508,26,595,103,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+product name,406,108,687,196,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+claims,391,207,572,269,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+vignettes,575,197,731,305,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+statement of identity,460,279,641,299,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+Net quantity,492,314,609,350,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+supplement-facts-table,732,16,969,328,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+Daily Value Footnotes,737,312,878,326,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+Other ingredients,730,327,967,340,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+Manufacturer-packer-distributor name address,972,17,1009,357,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+Principal Display Panel -PDP-,385,1,708,369,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+Information Panel,709,1,1021,369,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368
+Other Panels,1,1,384,369,Ultra-Vite-For-Men_pdf_page_1_png.rf.aa5668bd934c7c01a32f572788e5e9a1.jpg,1020,368

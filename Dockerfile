@@ -29,27 +29,14 @@ RUN apt-get -y update && apt-get install -y --no-install-recommends \
     rm -rf /var/lib/apt/lists/*
 
 # Set working directory
-WORKDIR /processor
+WORKDIR /grounding-dino
 
 RUN git clone https://github.com/signifyai/grounding-dino.git
 ENV PATH=/usr/local/cuda/bin:$PATH
 
-# add comment for build
-
-# Install Poetry
-ENV POETRY_VERSION=2.1.3
-RUN pip install poetry==${POETRY_VERSION}
-
-# Copy dependency files
-COPY pyproject.toml poetry.lock ./
-
-# Install dependencies with Poetry
-RUN poetry config virtualenvs.create false && \
-    poetry install --no-interaction --no-ansi --no-root --only main
-
 RUN python -c "import torch; print('CUDA available:', torch.cuda.is_available())"
 
-RUN cd grounding-dino/ && python -m pip install . --no-cache-dir --no-deps --no-build-isolation
+RUN cd grounding-dino/ && pip install -r requirements.txt && python -m pip install . --no-cache-dir --no-deps --no-build-isolation
 
 COPY --from=weights /weights /weights
 
@@ -57,4 +44,4 @@ COPY . .
 
 ENV PORT=8080
 
-CMD ["python", "-m", "app.main"]
+RUN python -c "import groundingdino; print('GroundingDINO installed successfully')"
