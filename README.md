@@ -14,18 +14,62 @@ by introducing the capability to train the model with image-to-text grounding. T
 
 
 ## Installation:
-See original Repo for installation of required dependencies essentially we need to install prerequisits and 
+  ```
+  git clone https://github.com/signifyai/grounding-dino.git
+  cd grounding-dino
+  python3.11 -m venv myenv
+  source myenv/bin/activate
 
-## Train: 
+  pip install -r requirements.txt
+  pip install -e . --verbose
+  ```
+
+## Train:
 
 1. Prepare your dataset with images and associated textual captions. A tiny dataset is given multimodal-data to demonstrate the expected data format.
-3. Run the train.py for training.
-  ```
-  python train.py
-  ```
+2. Run the train.py for training:
+
+```bash
+python train.py [OPTIONS]
+```
+
+### Train Command-line Arguments:
+- `--epochs`: Number of training epochs (default: 500)
+- `--save_path`: Directory to save model checkpoints (default: 'weights/trained/')
+- `--save_epoch`: Save checkpoint every N epochs (default: 50)
+- `--ann_file`: Path to annotation CSV file (default: 'prepared-training-data/annotation/annotation.csv')
+- `--images_dir`: Path to training images directory (default: 'prepared-training-data/images')
+
+Example:
+```bash
+python train.py --epochs 100 --save_epoch 10 --save_path weights/custom/
+```
 
 ## Test:
-Visualize results of training on test images
+
+Test the model on a folder of images with interactive visualization:
+
+```bash
+python test.py --folder_path PATH_TO_IMAGES [OPTIONS]
 ```
-python test.py
+
+### Test Command-line Arguments:
+- `--folder_path`: Path to folder containing images to process (required)
+- `--weights`: Path to model weights file (default: 'weights/groundingdino_swint_ogc.pth')
+- `--config`: Path to model configuration file (default: 'groundingdino/config/GroundingDINO_SwinT_OGC.py')
+- `--text_prompt`: Text prompt for object detection (default: 'PDP.')
+- `--box_threshold`: Minimum confidence for bounding boxes (default: 0.2)
+- `--text_threshold`: Minimum confidence for text matching (default: 0.25)
+
+Example:
+```bash
+python test.py --folder_path training-data/test --text_prompt "ingredients section." --box_threshold 0.3
 ```
+
+### Interactive Navigation:
+Once the test script processes all images, use these keyboard controls:
+- **→** (Right arrow): Next image
+- **←** (Left arrow): Previous image
+- **Q**: Quit viewer
+
+The viewer displays bounding boxes in different colors for easy distinction, with confidence scores shown for each detection.
