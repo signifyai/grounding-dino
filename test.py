@@ -147,7 +147,7 @@ def process_folder(
 
             # Draw boxes if they exist
             if current_data['boxes']:
-                for i, box in enumerate(current_data['boxes'][:10]):  # Show top 10 boxes
+                for i, box in enumerate(current_data['boxes'][:5]):  # Show top 10 boxes
                     x_min = box["x_min"]
                     y_min = box["y_min"]
                     width = box["x_max"] - box["x_min"]
