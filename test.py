@@ -193,7 +193,7 @@ def process_folder(
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Test for Grounding DINO - Process folder of images')
     parser.add_argument('--weights', default="weights/groundingdino_swint_ogc.pth", type=str, help='Path to the model weights')
-    parser.add_argument('--config', default="groundingdino/config/GroundingDINO_SwinT_OGC.py", type=str, help='Path to the model config')
+    parser.add_argument('--config', default="groundingdino/config/GroundingDINO_SwinB_cfg.py", type=str, help='Path to the model config')
     parser.add_argument('--folder_path', default="training-data/test", type=str, help='Path to the folder containing images')
     parser.add_argument('--text_prompt', default="PDP.", type=str, help='Text prompt')
     parser.add_argument('--box_threshold', default=0.2, type=float, help='Box threshold')

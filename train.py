@@ -11,7 +11,7 @@ from datetime import datetime
 
 # Check if weights file exists, download if not
 weights_dir = "weights"
-weights_file = os.path.join(weights_dir, "groundingdino_swint_ogc.pth")
+weights_file = os.path.join(weights_dir, "groundingdino_swinb_cogcoor.pth")
 
 if not os.path.exists(weights_file):
     print(f"[!] Weights file not found at {weights_file}")
@@ -20,7 +20,7 @@ if not os.path.exists(weights_file):
     os.makedirs(weights_dir, exist_ok=True)
 
     # Download the weights file using curl
-    url = "https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth"
+    url = "https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha2/groundingdino_swinb_cogcoor.pth"
     print(f"[*] Downloading weights from {url}")
 
     try:
@@ -38,7 +38,7 @@ else:
     device = "cpu"
 
 # Model
-model = load_model("groundingdino/config/GroundingDINO_SwinT_OGC.py", weights_file, device=device)
+model = load_model("groundingdino/config/GroundingDINO_SwinB_cfg.py", weights_file, device=device)
 
 def draw_box_with_label(image, output_path, coordinates, label, color=(0, 0, 255), thickness=2, font_scale=0.5):
     """
@@ -88,8 +88,11 @@ def read_dataset(ann_file, images_dir):
 def train(model, ann_file, epochs=1, save_path='weights/trained/',save_epoch=50, images_dir='prepared-training-data/images'):
     # Read Dataset
     current_time = datetime.now().strftime("%Y%m%d_%H%M%S")
+    save_path = save_path + current_time + "/"
+    os.makedirs(save_path, exist_ok=True)
     save_path = f"{save_path}model_{current_time}_epoch_"
     ann_Dict = read_dataset(ann_file, images_dir)
+
     
     # Add optimizer
     optimizer = optim.Adam(model.parameters(), lr=1e-5)
